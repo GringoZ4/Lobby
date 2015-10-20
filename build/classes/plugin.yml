@@ -1,0 +1,10 @@
+name: FlyLobby
+main: com.SrFernando.mc.flylobby.main
+description: Mythalium
+version: 1.0
+author: Fernando
+website: 
+
+commands:
+  fly:
+ 
